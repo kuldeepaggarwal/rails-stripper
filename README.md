@@ -1,4 +1,4 @@
-Stripper::Rails [![Build Status](https://travis-ci.org/kuldeepaggarwal/stripper-rails.png?branch=master)](https://travis-ci.org/kuldeepaggarwal/stripper-rails)
+Stripper::Rails [![Code Climate](https://codeclimate.com/github/kuldeepaggarwal/stripper-rails.png)](https://codeclimate.com/github/kuldeepaggarwal/stripper-rails) [![Build Status](https://travis-ci.org/kuldeepaggarwal/stripper-rails.png?branch=master)](https://travis-ci.org/kuldeepaggarwal/stripper-rails)
 -------
 
 An utility which provides a class method `strip_fields`. It accepts list of fields and removes leading and trailing whitespaces before validation.
