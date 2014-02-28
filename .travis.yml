@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - ruby-1.9.3-p484
+  - ruby-2.1.1
+script:
+  - bundle
+  - bundle exec rspec .
